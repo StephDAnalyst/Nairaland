@@ -35,7 +35,7 @@ It's a good practice to install the necessary packages within a virtual environm
 
 2. Run the script Nairaland_Scraper.py.
 
-3. The script will scrape data from Nairaland's URLs and save the results to a CSV file (Nzaluand_data.csv).
+3. The script will scrape data from Nairaland's URLs and save the results to a CSV file (Nairaland_data.csv).
 
 ## Script Overview
 - The script uses Selenium to automate the web scraping process on Nairaland.
