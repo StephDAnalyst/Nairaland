@@ -48,7 +48,7 @@ for link in range(len(nairid)):
 
 driver.quit()
 
-file_name = 'Nzaluand_data.csv'
+file_name = 'Nairaland_data.csv'
 file_exists = os.path.isfile(file_name)
 
 with open(file_name, 'a', newline='', encoding='utf-8') as f:
